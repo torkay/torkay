@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=torkay&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=torkay&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
