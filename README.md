@@ -1,4 +1,4 @@
-### Hey, I'm Tor
+### Hey, I'm Tor 👋
 
 <div align="center">
 
